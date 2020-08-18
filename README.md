@@ -1,6 +1,5 @@
 Code is written in **Jupyter Notebook**
-
-> # Numerical Methods
+# Numerical Methods
 >
 > ## Roots of Equation
 > - Bisection method
