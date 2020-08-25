@@ -1,9 +1,4 @@
 # How to use
 
-- Bisection auto
-This method auto finds the no. of iterations based on the error
-
-bisection_auto(f,a,b)
-where f is function 
-a is start of range
-b is end of the range
+ - Define expression using *Lambda* function of python
+ - All the methods is written as function, just call the function with approriate calling functions 
