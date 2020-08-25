@@ -4,5 +4,5 @@ Code is written in **Jupyter Notebook**
 > ## Roots of Equation
 > - Bisection method
 > - Newton Raphson Method
->
+> - Successive aprroximation Method
 >
