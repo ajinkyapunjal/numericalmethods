@@ -5,4 +5,10 @@ Code is written in **Jupyter Notebook**
 > - Bisection method
 > - Newton Raphson Method
 > - Successive aprroximation Method
->
+
+> ## Simultaneous Equation
+> - Gauss elimination and back substitution.
+
+> ## Curve fitting
+> - Linear curve fitting
+> - Quadratic curve fitting
