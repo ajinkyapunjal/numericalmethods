@@ -11,6 +11,6 @@ Code is written in **Jupyter Notebook**
 
 > ## Curve fitting
 > - Linear curve fitting (y=mx+c)
-> - Quadratic curve fitting (y=ax^2+bx+c)
-> - Power curve fitting (y=Ax^b)
-> - Exponential curve fitting (y=Ae^(xb))
+> - Quadratic curve fitting (y=ax<sup>2</sup>+bx+c)
+> - Power curve fitting (y=Ax<sup>b</sup>)
+> - Exponential curve fitting (y=Ae<sup>xb</sup>)
