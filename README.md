@@ -1,5 +1,4 @@
-Code is written in **Jupyter Notebook**
-libraries required are Numpy, Pandas, math
+Code is written in **Jupyter Notebook** and required libraries are Numpy, Pandas, math
 # Numerical Methods
 >
 > ## Roots of Equation
