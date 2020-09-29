@@ -10,5 +10,7 @@ Code is written in **Jupyter Notebook**
 > - Gauss elimination and back substitution.
 
 > ## Curve fitting
-> - Linear curve fitting
-> - Quadratic curve fitting
+> - Linear curve fitting (y=mx+c)
+> - Quadratic curve fitting (y=ax^2+bx+c)
+> - Power curve fitting (y=Ax^b)
+> - Exponential curve fitting (y=Ae^(xb))
