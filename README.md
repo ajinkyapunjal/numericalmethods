@@ -14,3 +14,8 @@ Code is written in **Jupyter Notebook** and required libraries are Numpy, Pandas
 > - Quadratic curve fitting (y=ax<sup>2</sup>+bx+c)
 > - Power curve fitting (y=Ax<sup>b</sup>)
 > - Exponential curve fitting (y=Ae<sup>xb</sup>)
+
+> ## Interpolation
+> - Langragian Interpolation 
+> - Newtons forward interpolation
+> - Inverse Langragian Interpolation
